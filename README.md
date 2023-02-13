@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Vyasa M Nayak
+
+![septicalls' GitHub stats](https://github-readme-stats.vercel.app/api?username=septicalls&count_private=true&theme=tokyonight&show_icons=true)
+
+### I like to work with
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### I use
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+Find my projects both here and over at [The sceptix club](https://github.com/sceptix-club).
 
 <!--
 **septicalls/septicalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
