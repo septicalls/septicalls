@@ -1,5 +1,5 @@
 # Hi there, I'm Vyasa M Nayak
-<p>I am an <a href="https://www.redhat.com/en/topics/open-source/what-is-open-source" target="_blank">open source</a> enthusiast learning C. I am interested FOSS development and systems programming. I escape myself into Anime, listen to classical music, and read novels in my free time. You won't find me on Instagram, Twitter, or Facebook. Contact me via <a href="mailto:septicalls@proton.me">email</a> instead.</p>
+<p>I am an <a href="https://www.redhat.com/en/topics/open-source/what-is-open-source" target="_blank">open source</a> enthusiast learning C/C++. I am interested FOSS development, programming languages, and systems programming. I escape myself into Anime, listen to classical music, and read novels in my free time. You won't find me on Instagram, Twitter, or Facebook. Contact me via <a href="mailto:septicalls@proton.me">email</a> instead.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=septicalls&label=Profile%20views&color=111814&style=flat" alt="septicalls" /></p>
 
 ![septicalls' GitHub stats](https://github-readme-stats.vercel.app/api?username=septicalls&count_private=true&theme=tokyonight&show_icons=true)
